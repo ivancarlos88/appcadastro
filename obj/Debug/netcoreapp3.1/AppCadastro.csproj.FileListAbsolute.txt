@@ -1,0 +1,13 @@
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.csprojAssemblyReference.cache
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.AssemblyInfo.cs
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.csproj.CoreCompileInputs.cache
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.exe
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.deps.json
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.runtimeconfig.json
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.runtimeconfig.dev.json
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.dll
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\bin\Debug\netcoreapp3.1\AppCadastro.pdb
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.dll
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.pdb
+C:\Users\XZA_R\Desktop\Projetos - Programação\net\AppCadastro\obj\Debug\netcoreapp3.1\AppCadastro.genruntimeconfig.cache
